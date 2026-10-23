@@ -161,7 +161,11 @@ $ext = 'target="_blank" rel="noopener"';
       <div class="sec-head"><h2 id="h-partners">Met dank <em>aan</em></h2></div>
       <div class="sponsors">
 <?php foreach ($s['sponsors'] as $sp): ?>
+<?php if (!empty($sp['text'])): ?>
+        <a class="partner" href="<?= e($sp['url']) ?>" <?= $ext ?>><?php if (!empty($sp['logo'])): ?><img src="<?= e($sp['logo']) ?>" alt="" loading="lazy" width="64" height="64"><?php endif ?><span><b><?= e($sp['name']) ?></b><small><?= e($sp['text']) ?></small><?php if (!empty($sp['cta'])): ?><em><?= e($sp['cta']) ?></em><?php endif ?></span></a>
+<?php else: ?>
         <a href="<?= e($sp['url']) ?>" <?= $ext ?>><?php if (!empty($sp['logo'])): ?><img src="<?= e($sp['logo']) ?>" alt="<?= e($sp['name']) ?>" loading="lazy" height="48"><?php else: ?><?= e($sp['name']) ?><?php endif ?></a>
+<?php endif ?>
 <?php endforeach ?>
       </div>
     </div>

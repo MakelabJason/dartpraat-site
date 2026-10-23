@@ -138,6 +138,12 @@ check('render: lokale thumbnail (img.php), geen hotlink', str_contains($html, 'i
 check('render: YouTube klik-om-te-laden', str_contains($html, 'data-yt="okvES8MG7QE"') && !str_contains($html, '<iframe'));
 check('render: gastenmuur', str_contains($html, '>Marvin van Velzen</a>') && str_contains($html, '>Maikel Verberk</a>')
     && !str_contains($html, '>Bas Engelen</a>'));
+preg_match_all('~<div class="wall">(.*?)</div>~s', $html, $wall);
+preg_match_all('~>([^<]+)</a>~', $wall[1][0] ?? '', $names);
+check('render: vaste gasten vooraan (Barneveld zonder aflevering in de feed → Spotify)', array_slice($names[1], 0, 2) === ['Raymond van Barneveld', 'Gian van Veen']
+    && count(array_keys($names[1], 'Gian van Veen')) === 1 && count($names[1]) <= 12, json_encode($names[1], JSON_UNESCAPED_UNICODE));
+check('render: partner PremiumDartshop met lokaal logo', str_contains($html, 'href="https://premiumdartshop.nl/"')
+    && str_contains($html, 'src="assets/img/partners/premiumdartshop.webp"'));
 check('render: footer Creation HQ, geen conceptbalk', str_contains($html, 'Website door Creation HQ')
     && !str_contains($html, 'Makelab') && !str_contains($html, 'class="concept'));
 preg_match('~<script type="application/ld\+json">(.*?)</script>~s', $html, $m);

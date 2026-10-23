@@ -38,7 +38,21 @@ final class View
         $hero = $episodes ? $decorate($episodes[0]) : null;
         $recent = array_map($decorate, array_slice($episodes, 1, $app->cfg['recent']));
 
+        // Vaste gasten (site.json guests.pinned) staan altijd vooraan; link = nieuwste aflevering met die naam in de titel.
         $guests = [];
+        foreach ($site['guests']['pinned'] ?? [] as $name) {
+            if (!is_string($name) || ($name = trim($name)) === '') {
+                continue;
+            }
+            $link = '';
+            foreach ($episodes as $ep) {
+                if (mb_stripos($ep['title'], $name) !== false) {
+                    $link = $ep['link'];
+                    break;
+                }
+            }
+            $guests[mb_strtolower($name)] = ['name' => $name, 'link' => $link];
+        }
         foreach ($episodes as $ep) {
             foreach (Titles::guests($ep['rest'], $stop) as $name) {
                 $key = mb_strtolower($name);
