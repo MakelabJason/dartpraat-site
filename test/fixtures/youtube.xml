@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCvlZuJtGY4ZExkZ660WNlnA"/>
+ <id>yt:channel:vlZuJtGY4ZExkZ660WNlnA</id>
+ <yt:channelId>vlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+ <title>Dartpraat Podcast</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA"/>
+ <author>
+  <name>Dartpraat Podcast</name>
+  <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+ </author>
+ <published>2023-09-14T11:47:22+00:00</published>
+ <entry>
+  <id>yt:video:okvES8MG7QE</id>
+  <yt:videoId>okvES8MG7QE</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E11 - Gian van Veen over Winmau, het EK, en het Dutch Darts Championship</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=okvES8MG7QE"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-10-21T22:00:38+00:00</published>
+  <updated>2026-10-22T21:25:53+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E11 - Gian van Veen over Winmau, het EK, en het Dutch Darts Championship</media:title>
+   <media:content url="https://www.youtube.com/v/okvES8MG7QE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/okvES8MG7QE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>De nummer 3 van de wereldranglijst, Gian van Veen, schuift in aflevering 11 van seizoen 4 van Dartpraat aan om vooruit te blikken op het European Championship, waar hij zijn titel gaat verdedigen. Ook blikt Van Veen met hosts Bas Engelen en Jeffrey Noeken terug op het Dutch Darts Championship én bespreken ze zijn overstap van Red Dragon naar Winmau.
+
+Volg Dartpraat ook op de socials:
+Facebook: https://tr.ee/jFZauAvuCb
+X: https://tr.ee/xXUmTzJS9K
+Instagram: https://tr.ee/nLgtNjv9vd
+TikTok: https://tr.ee/3LVlKvDIe3
+
+Dartpraat is ook te beluisteren op Spotify:
+https://tr.ee/hlNC9C9GV0
+
+Dartpraat is ook te beluisteren op Podimo:
+https://podimo.com/s/g0IYm0K0 (eerste 30 dagen gratis)
+
+Praat mee in de Dartpraat Discord:
+https://tr.ee/1llU80AKPV</media:description>
+   <media:community>
+    <media:starRating count="37" average="5.00" min="1" max="5"/>
+    <media:statistics views="1779"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4cPH9yZ5LiQ</id>
+  <yt:videoId>4cPH9yZ5LiQ</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E10 - Marvin van Velzen</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4cPH9yZ5LiQ"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-10-14T22:00:33+00:00</published>
+  <updated>2026-10-15T23:52:28+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E10 - Marvin van Velzen</media:title>
+   <media:content url="https://www.youtube.com/v/4cPH9yZ5LiQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4cPH9yZ5LiQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Na ruim twee jaar schuift Marvin van Velzen weer eens aan bij Bas Engelen en Jeffrey Noeken voor een nieuwe aflevering van Dartpraat. De vorige keer dat Marvin te gast was had hij nog geen Tour Card, maar wel zijn debuut gemaakt op het Dutch Darts Championship. Nu is hij Tour Card-houder, heeft hij er bijna twee jaar op de Tour op zitten en hij gaat zich vandaag proberen te plaatsen voor de Nederlandse Euro Tour.</media:description>
+   <media:community>
+    <media:starRating count="24" average="5.00" min="1" max="5"/>
+    <media:statistics views="1537"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SXc3rdvM2sI</id>
+  <yt:videoId>SXc3rdvM2sI</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E09 - Jimmy van Schie</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SXc3rdvM2sI"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-10-07T22:00:38+00:00</published>
+  <updated>2026-10-13T10:53:46+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E09 - Jimmy van Schie</media:title>
+   <media:content url="https://www.youtube.com/v/SXc3rdvM2sI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SXc3rdvM2sI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In aflevering 9 van seizoen 4 van de Dartpraat Podcast is Jimmy van Schie voor de vijfde keer te gast. Ruim drie jaar geleden was hij er voor het eerst. Toen sprak Jimmy over z'n ambities, de hoop dat hij uitgenodigd zou worden voor de Modus Super Series en kijk waar we nu zijn. Met Jimmy spreken hosts Bas Engelen en Jeffrey Noeken over zijn eerste jaar als Tour Card-houder en wordt er natuurlijk gesproken over de World Grand Prix 2026.</media:description>
+   <media:community>
+    <media:starRating count="49" average="5.00" min="1" max="5"/>
+    <media:statistics views="2503"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rHCfe2p-QCM</id>
+  <yt:videoId>rHCfe2p-QCM</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E08 - Danny 'The Mullet' Jansen</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rHCfe2p-QCM"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-09-30T22:00:36+00:00</published>
+  <updated>2026-09-30T22:17:45+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E08 - Danny 'The Mullet' Jansen</media:title>
+   <media:content url="https://www.youtube.com/v/rHCfe2p-QCM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rHCfe2p-QCM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In aflevering 8 van seizoen 4 van Dartpraat is The Mullet, Danny Jansen te gast. Na een lange vlucht vanuit de Verenigde Staten bespreekt Jansen met hosts Bas Engelen en Jeffrey Noeken hoe zijn carrière er tegenwoordig voor staat. Het drietal bespreekt de laatste ontwikkelingen bij de PDC, de nieuwe WK Qualifiers en natuurlijk de plannen van Danny Jansen. Want hoe staat het er eigenlijk voor in de Verenigde Staten qua darts?</media:description>
+   <media:community>
+    <media:starRating count="24" average="5.00" min="1" max="5"/>
+    <media:statistics views="1866"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Jtu_Oo7keWc</id>
+  <yt:videoId>Jtu_Oo7keWc</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E07 - Jeffrey de Graaf</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Jtu_Oo7keWc"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-09-23T22:00:37+00:00</published>
+  <updated>2026-09-26T02:34:15+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E07 - Jeffrey de Graaf</media:title>
+   <media:content url="https://www.youtube.com/v/Jtu_Oo7keWc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Jtu_Oo7keWc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In aflevering 7 van seizoen 4 van Dartpraat is niemand minder dan Jeffrey de Graaf te gast. Direct na Players Championship 29, waar De Graaf de kwartfinale haalde, schoof hij aan bij hosts Bas Engelen en Jeffrey Noeken. Met De Graaf wordt gesproken over zijn dartcarrière, de overstap naar Zweden, hoe hij begonnen is als darter, en zijn ervaringen op WK's.
+
+
+Daarnaast is er tijd voor de World Series of Darts Finals en een korte blik op de komende World Grand Prix.</media:description>
+   <media:community>
+    <media:starRating count="36" average="5.00" min="1" max="5"/>
+    <media:statistics views="2169"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Sieq6ZfUP4E</id>
+  <yt:videoId>Sieq6ZfUP4E</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E06 - Sietse Lap</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Sieq6ZfUP4E"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-09-16T22:24:25+00:00</published>
+  <updated>2026-10-18T17:02:17+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E06 - Sietse Lap</media:title>
+   <media:content url="https://www.youtube.com/v/Sieq6ZfUP4E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Sieq6ZfUP4E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In aflevering 6 van seizoen 4 van Dartpraat is eerstejaars Tour Card-houder Sietse Lap te gast. Hosts Bas Engelen en Jeffrey Noeken spreken met hem over zijn eerste jaar als Tour Card-houder, zijn verwachtingen van het leven als profdarter, en natuurlijk over zijn bijzondere manier van gooien. Verder is er aandacht voor de Euro Tour in Antwerpen en de World Series of Darts Finals.</media:description>
+   <media:community>
+    <media:starRating count="22" average="5.00" min="1" max="5"/>
+    <media:statistics views="1709"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:cTNuW_NVpng</id>
+  <yt:videoId>cTNuW_NVpng</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E05 - De 100e aflevering!</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=cTNuW_NVpng"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-09-09T22:00:34+00:00</published>
+  <updated>2026-10-15T04:53:47+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E05 - De 100e aflevering!</media:title>
+   <media:content url="https://www.youtube.com/v/cTNuW_NVpng?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/cTNuW_NVpng/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In aflevering 5 van seizoen 4 helaas op 't laatste moment toch geen Niels Zonneveld, maar alsnog is de 100e aflevering van de Dartpraat podcast daar! Hosts Bas Engelen en Jeffrey Noeken blikken terug op de Czech Darts Open, waar Luke Littler weer eens wist te winnen en blikken vooruit op de World Grand Prix-race die tot een einde komt tijdens de Flanders Darts Trophy.</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="1505"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oJz6n0TTZsQ</id>
+  <yt:videoId>oJz6n0TTZsQ</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E04 - Jermaine Wattimena</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oJz6n0TTZsQ"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-09-02T22:00:27+00:00</published>
+  <updated>2026-10-07T13:25:45+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E04 - Jermaine Wattimena</media:title>
+   <media:content url="https://www.youtube.com/v/oJz6n0TTZsQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oJz6n0TTZsQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In aflevering 4 van seizoen 4 van de Dartpraat podcast is de nummer 17 van de wereld, Jermaine Wattimena, te gast. De laatste keer dat Jermaine te gast was, was hij nog 45e van de wereld en was Luke Littler de nummer 30 op de PDC Order of Merit. 
+
+Er is veel veranderd en daarover praten hosts Bas Engelen en Jeffrey Noeken met Wattimena. Want wat is er nou echt veranderd? En waarom de overstap naar Winmau?</media:description>
+   <media:community>
+    <media:starRating count="26" average="5.00" min="1" max="5"/>
+    <media:statistics views="4074"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:l3T2lJC4Ul0</id>
+  <yt:videoId>l3T2lJC4Ul0</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E03 - Premium Dartshop is geopend!</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=l3T2lJC4Ul0"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-08-26T22:00:11+00:00</published>
+  <updated>2026-10-15T05:10:23+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E03 - Premium Dartshop is geopend!</media:title>
+   <media:content url="https://www.youtube.com/v/l3T2lJC4Ul0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/l3T2lJC4Ul0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In aflevering 3 van seizoen 4 van Dartpraat zitten hosts Bas Engelen en Jeffrey Noeken voor het eerst in een geopende Premium Dartshop, de winkel van Bas. Het is een beetje komkommertijd en dus weinig te bespreken, maar er is wel tijd voor de Australian Darts Masters, de Swedish Open, Women's Series, en de Swedish Masters.</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="1647"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:e4xRJhju7e4</id>
+  <yt:videoId>e4xRJhju7e4</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>In de nieuwste aflevering van Dartpraat blikt Niels Zonneveld terug op de World Matchplay #darts</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/e4xRJhju7e4"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-08-21T14:32:25+00:00</published>
+  <updated>2026-10-03T16:57:48+00:00</updated>
+  <media:group>
+   <media:title>In de nieuwste aflevering van Dartpraat blikt Niels Zonneveld terug op de World Matchplay #darts</media:title>
+   <media:content url="https://www.youtube.com/v/e4xRJhju7e4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/e4xRJhju7e4/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="322"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1Kx95esiFm8</id>
+  <yt:videoId>1Kx95esiFm8</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E02 - Niels Zonneveld</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1Kx95esiFm8"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-08-19T22:00:27+00:00</published>
+  <updated>2026-10-15T04:57:27+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E02 - Niels Zonneveld</media:title>
+   <media:content url="https://www.youtube.com/v/1Kx95esiFm8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1Kx95esiFm8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Vaste gast Niels Zonneveld is in aflevering 2 van seizoen 4 van Dartpraat te gast. Met Niels blikken hosts Jeffrey Noeken en Bas Engelen terug op de laatste 4 maanden, want er is genoeg gebeurd tijdens de zomerstop van Dartpraat: Niels werd voor het eerst vader én speelde een geweldige partij op de World Matchplay, een wedstrijd die nog lang door het hoofd van Niels spookte.</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="1601"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xsGw0LPH_Vo</id>
+  <yt:videoId>xsGw0LPH_Vo</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S04E01 - Benito van de Pas (Zwaantje Masters 2026)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xsGw0LPH_Vo"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-08-12T22:00:22+00:00</published>
+  <updated>2026-10-15T04:47:00+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S04E01 - Benito van de Pas (Zwaantje Masters 2026)</media:title>
+   <media:content url="https://www.youtube.com/v/xsGw0LPH_Vo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xsGw0LPH_Vo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Na lang zeuren is het gelukt! Benito van de Pas is te gast in aflevering 1 van seizoen 4 van Dartpraat. Zoals altijd trappen we een nieuw seizoen af in Café 't Zwaantje, waar komende zaterdag de Zwaantje Masters 2026 worden gespeeld. Benito van de Pas komt in actie, net als Jimmy van Schie, Co Stompé, Mervyn King, Danny Noppert, Terry Jenkins, Kim Huybrechts, Tony O'Shea, Andy Baetens en nog veel meer!
+
+Daarover spreken we met Benito, maar natuurlijk ook over zijn carrière. Hoe is hij begonnen met darten en waarom besloot hij te stoppen? Sinds acht à negen maanden heeft hij zijn pijlen weer opgepakt en de grote vraag is natuurlijk: Gaat Benito naar Q-school 2026?</media:description>
+   <media:community>
+    <media:starRating count="32" average="5.00" min="1" max="5"/>
+    <media:statistics views="2420"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lUyTHC7IW_A</id>
+  <yt:videoId>lUyTHC7IW_A</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat | Studio SuperLeague | Speelronde 17 - 8 mei 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lUyTHC7IW_A"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-05-12T22:00:52+00:00</published>
+  <updated>2026-10-04T02:04:02+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat | Studio SuperLeague | Speelronde 17 - 8 mei 2026</media:title>
+   <media:content url="https://www.youtube.com/v/lUyTHC7IW_A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lUyTHC7IW_A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>NDB SuperLeague Speelronde 17 is gespeeld!
+
+Een terugblik op de uitslagen, standen en persoonlijke resultaten in de:
+Hoofdklasse
+Overgangsklasse A
+Overgangsklasse B
+Overgangsklasse C
+
+Ben jij benieuwd naar meer resultaten? Kijk dan op de Facebookpagina van Dartpraat waar uitgebreid de statistieken worden besproken van de gespeelde partijen in elke competitie.</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="370"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TxW4YrmHta0</id>
+  <yt:videoId>TxW4YrmHta0</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S03E30 - De laatste</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TxW4YrmHta0"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-05-06T22:00:38+00:00</published>
+  <updated>2026-10-04T08:59:40+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S03E30 - De laatste</media:title>
+   <media:content url="https://www.youtube.com/v/TxW4YrmHta0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TxW4YrmHta0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In aflevering 30 van seizoen 3 van Dartpraat is het tijd om afscheid te nemen. Na een korte tussenstop van twee weken kruipen hosts Bas Engelen en Jeffrey Noeken nog een keer achter de microfoons om het laatste dartnieuws te bespreken. Er wordt gesproken over de Premier League, de World Cup of Darts, de Challenge Tour, Pro Tour, en de laatste WDF-toernooien. Het is de laatste aflevering van seizoen 3, maar niet getreurd. In augustus is Dartpraat gewoon weer terug, vanaf een nieuwe locatie!
+
+00:00 - Intro
+02:41 - Is er nog gedart?
+06:38 - De mening pijlen
+07:19 - Stellingen
+08:20 - Bas opent eigen dartshop
+10:52 - Had de PDC spelers schouderklopjes moeten geven?
+12:59 - World Cup of Darts
+19:40 - Six Nations Cup selectie bekend
+20:51 - Nieuw WK-kwalificatietoernooi Oceanië
+22:10 - Eerste internationale WK deelnemer bekend
+22:58 - 9-darters
+25:46 - Price pakt z'n 10e Euro Tour toernooi
+27:08 - Terugkijken op Premier League weken
+37:00 - Players Championships
+43:25 - Zat het management van Bradley Brooks fout?
+46:40 - Challenge Tour
+48:08 - WDF 
+50:32 - Moet er een nieuwe Kings of Darts komen?
+53:03 - Hoogte- en dieptepunten dit seizoen
+54:54 - Wanneer start seizoen 4?
+56:16 - Open Duiven Darts 2026
+01:00:00 - Programma komende week
+01:00:35 - Oproepje</media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="829"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-njsjoGfORU</id>
+  <yt:videoId>-njsjoGfORU</yt:videoId>
+  <yt:channelId>UCvlZuJtGY4ZExkZ660WNlnA</yt:channelId>
+  <title>Dartpraat S03E29 - Premier League &amp; NDB Ranking 9 &amp; 10 - Met Maikel Verberk</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-njsjoGfORU"/>
+  <author>
+   <name>Dartpraat Podcast</name>
+   <uri>https://www.youtube.com/channel/UCvlZuJtGY4ZExkZ660WNlnA</uri>
+  </author>
+  <published>2026-04-15T22:00:00+00:00</published>
+  <updated>2026-10-03T16:53:16+00:00</updated>
+  <media:group>
+   <media:title>Dartpraat S03E29 - Premier League &amp; NDB Ranking 9 &amp; 10 - Met Maikel Verberk</media:title>
+   <media:content url="https://www.youtube.com/v/-njsjoGfORU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-njsjoGfORU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In aflevering 29 van seizoen 3 van Dartpraat spreken hosts Bas Engelen en Jeffrey Noeken met Maikel Verberk, winnaar van een van de recente DNB rankings. Daarnaast speelt Verberk bij Superleague-team Binnadorst én is hij bondscoach van het Nederlands team softtip.</media:description>
+   <media:community>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="778"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

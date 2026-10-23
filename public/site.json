@@ -1,0 +1,102 @@
+{
+  "site": {
+    "name": "Dartpraat",
+    "url": "https://dartpraat.nl",
+    "lang": "nl",
+    "timezone": "Europe/Amsterdam",
+    "title": "Dartpraat · de (bijna) wekelijkse dartspodcast",
+    "description": "Dartpraat, de (bijna) wekelijkse dartspodcast van Bas Engelen en Jeffrey Noeken: dartnieuws, toernooien en een gast uit de dartwereld."
+  },
+  "feed": {
+    "url": "https://anchor.fm/s/e50153fc/podcast/rss",
+    "ttl": 900,
+    "timeout": 3,
+    "recent": 6
+  },
+  "youtube": {
+    "channel_id": "UCvlZuJtGY4ZExkZ660WNlnA",
+    "channel_url": "https://www.youtube.com/@Dartpraat"
+  },
+  "theme": {
+    "stage": "#0d0e11",
+    "panel": "#16181d",
+    "panel-2": "#1e2127",
+    "line": "#2a2e36",
+    "text": "#f3efe6",
+    "muted": "#9b9ea6",
+    "red": "#e2483d",
+    "green": "#2fa463",
+    "green-deep": "#1f7a47",
+    "gold": "#f2c14e"
+  },
+  "images": {
+    "logo": "assets/img/logo.webp",
+    "icon": "assets/img/logo.png",
+    "fallback": "assets/img/fallback.webp",
+    "og": "assets/img/og.jpg"
+  },
+  "nav": {
+    "links": [
+      { "label": "Afleveringen", "href": "#afleveringen" },
+      { "label": "Aan tafel", "href": "#aan-tafel" },
+      { "label": "Meedoen", "href": "#meedoen" },
+      { "label": "Volg", "href": "#volg" }
+    ],
+    "cta": { "label": "Volg op Spotify", "url": "https://open.spotify.com/show/2CaYj0W7njGrjMdXC12fUw" }
+  },
+  "listen": [
+    { "label": "YouTube", "icon": "youtube", "url": "https://www.youtube.com/@Dartpraat", "video": true },
+    { "label": "Podimo", "icon": "headphones", "url": "https://podimo.com/s/g0IYm0K0" }
+  ],
+  "episodes": {
+    "title": "Recente",
+    "em": "afleveringen",
+    "all_label": "Alle afleveringen op Spotify →",
+    "all_url": "https://open.spotify.com/show/2CaYj0W7njGrjMdXC12fUw",
+    "empty": "De afleveringen laden even niet. Luister ze zolang op Spotify."
+  },
+  "stats": [
+    { "value": "{episodes}", "label": "afleveringen sinds de start, de 100e viel in september", "pips": "rgrg" },
+    { "value": "4,9", "suffix": "★", "label": "gemiddelde score op Spotify, 97 beoordelingen", "pips": "rgrg-" },
+    { "value": "S{season}", "label": "seizoen {season}, bijna elke week met een gast", "pips": "rgrg" },
+    { "value": "{avg_duration}", "label": "per aflevering: nieuws, toernooien en een gast uit de dartwereld", "pips": "rg-" }
+  ],
+  "hosts_title": { "title": "Aan", "em": "tafel" },
+  "hosts": [
+    { "name": "Bas Engelen", "initials": "BE", "role": "Host · Premium Dart Data en Viaplay" },
+    { "name": "Jeffrey Noeken", "initials": "JN", "role": "Host · commentator bij Viaplay" }
+  ],
+  "guests": {
+    "title": "Eerder te gast",
+    "max": 12,
+    "not_names": ["Darts", "Dart", "Open", "Masters", "Trophy", "Championship", "League", "Series", "Tour", "Cup", "Finals",
+      "Grand", "Prix", "Slam", "Premier", "World", "WK", "EK", "Dartpraat", "Vooruitblik", "Terugblik", "Aflevering",
+      "Dartshop", "Studio", "Superleague", "Speelronde"]
+  },
+  "join": {
+    "title": "Doe",
+    "em": "mee",
+    "cards": [
+      { "tag": "WK Darts · Scorito", "title": "Dartpraat-poule", "text": "Voorspel de WK-uitslagen tegen de andere luisteraars van Dartpraat.", "cta": "Doe mee", "url": "https://www.scorito.com/subleague/1005350/wk-darts-2026/dartpraat-podcast/1bf71993-3b34-4883-bb9c-344e4337e452" },
+      { "tag": "WK Darts · Challonge", "title": "WK-bracket", "text": "Het hele speelschema van het WK, ronde voor ronde.", "cta": "Bekijk het schema", "url": "https://challonge.com/nl/PDCwk26" },
+      { "style": "discord", "icon": "discord", "title": "Discord", "text": "Napraten over de aflevering en de wedstrijden van vanavond.", "cta": "Join de Discord", "url": "https://discord.gg/sfBd2WVgDR" }
+    ]
+  },
+  "follow_title": { "title": "Volg", "em": "Dartpraat" },
+  "social": [
+    { "network": "instagram", "label": "Instagram", "handle": "@dartpraat", "url": "https://www.instagram.com/dartpraat" },
+    { "network": "tiktok", "label": "TikTok", "handle": "@dartpraat", "url": "https://www.tiktok.com/@dartpraat" },
+    { "network": "x", "label": "X", "handle": "@Dartpraat", "url": "https://x.com/Dartpraat" },
+    { "network": "facebook", "label": "Facebook", "handle": "Dartpraat", "url": "https://www.facebook.com/profile.php?id=100094368475298" }
+  ],
+  "contact": {
+    "text": "Gast voorstellen, samenwerken of een vraag?",
+    "email": "Dartpraat@gmail.com"
+  },
+  "sponsors": [],
+  "footer": {
+    "tagline": "Game on",
+    "chips": ["T20", "T20", "Bull"],
+    "credit": "Website door Creation HQ"
+  }
+}
