@@ -69,7 +69,7 @@ Controle na de uitrol: `/status.json` geeft `"ok": true` en de code van de nieuw
 
 ```
 npm test                                            # php -l + test/run.php (59 checks)
-werk-webkit npm run test:e2e                        # WebKit 390 en 1440 (npm install eerst)
+npm run test:e2e                                    # WebKit 390 en 1440 (installeert Playwright, gebruikt werk-webkit)
 ```
 
 `npm test` zoekt PHP in `$PHP`, dan `php`, en anders haalt het eenmalig een statische PHP 8.1 op in `~/.cache/podsite-php`.
