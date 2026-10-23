@@ -69,6 +69,7 @@
   "guests": {
     "title": "Eerder te gast",
     "max": 12,
+    "pinned": ["Raymond van Barneveld", "Gian van Veen"],
     "not_names": ["Darts", "Dart", "Open", "Masters", "Trophy", "Championship", "League", "Series", "Tour", "Cup", "Finals",
       "Grand", "Prix", "Slam", "Premier", "World", "WK", "EK", "Dartpraat", "Vooruitblik", "Terugblik", "Aflevering",
       "Dartshop", "Studio", "Superleague", "Speelronde"]
@@ -93,7 +94,9 @@
     "text": "Gast voorstellen, samenwerken of een vraag?",
     "email": "Dartpraat@gmail.com"
   },
-  "sponsors": [],
+  "sponsors": [
+    { "name": "PremiumDartshop", "logo": "assets/img/partners/premiumdartshop.webp", "text": "De dartshop achter Dartpraat: darts, flights, shafts en accessoires.", "cta": "Naar premiumdartshop.nl →", "url": "https://premiumdartshop.nl/" }
+  ],
   "footer": {
     "tagline": "Game on",
     "chips": ["T20", "T20", "Bull"],
