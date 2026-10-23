@@ -1,0 +1,13 @@
+{
+  "name": "dartpraat-site",
+  "private": true,
+  "description": "Podcastsite uit RSS (template). Runtime is PHP; Node alleen voor de browsertests.",
+  "scripts": {
+    "test": "sh test/run.sh",
+    "test:e2e": "playwright test -c test/playwright.config.mjs",
+    "serve": "sh test/serve.sh"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0"
+  }
+}
