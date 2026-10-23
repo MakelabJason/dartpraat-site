@@ -41,6 +41,9 @@ final class View
         // Vaste gasten (site.json guests.pinned) staan altijd vooraan; link = nieuwste aflevering met die naam in de titel.
         $guests = [];
         foreach ($site['guests']['pinned'] ?? [] as $name) {
+            if (!is_string($name) || ($name = trim($name)) === '') {
+                continue;
+            }
             $link = '';
             foreach ($episodes as $ep) {
                 if (mb_stripos($ep['title'], $name) !== false) {
